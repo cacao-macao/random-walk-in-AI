@@ -1,0 +1,30 @@
+A random puzzle:
+ ---------------------
+| 3  | 12 | 13 | 6  |
+---------------------
+| 15 |    | 7  | 1  |
+---------------------
+| 2  | 14 | 11 | 4  |
+---------------------
+| 10 | 9  | 5  | 8  |
+---------------------
+exploring depth limit: 1
+exploring depth limit: 38
+exploring depth limit: 39
+exploring depth limit: 40
+exploring depth limit: 41
+exploring depth limit: 42
+exploring depth limit: 43
+exploring depth limit: 44
+exploring depth limit: 45
+exploring depth limit: 46
+exploring depth limit: 47
+exploring depth limit: 48
+exploring depth limit: 49
+exploring depth limit: 50
+exploring depth limit: 51
+exploring depth limit: 52
+exploring depth limit: 53
+Path found with total cost of 52 in 4173.962502 seconds
+Search nodes expanded: 103_586_953
+Found a path of 52 moves: ['up', 'right', 'down', 'right', 'down', 'left', 'down', 'left', 'up', 'up', 'left', 'down', 'down', 'right', 'up', 'up', 'up', 'left', 'down', 'right', 'right', 'down', 'down', 'left', 'up', 'left', 'up', 'right', 'right', 'up', 'right', 'down', 'left', 'up', 'left', 'left', 'down', 'right', 'down', 'right', 'right', 'down', 'left', 'left', 'left', 'up', 'right', 'up', 'right', 'right', 'down', 'down']

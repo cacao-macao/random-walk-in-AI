@@ -1,0 +1,13 @@
+A random puzzle:
+ ---------------------
+| 3  | 12 | 13 | 6  |
+---------------------
+| 15 |    | 7  | 1  |
+---------------------
+| 2  | 14 | 11 | 4  |
+---------------------
+| 10 | 9  | 5  | 8  |
+---------------------
+Path found with total cost of 52 in 3190.188399 seconds
+Search nodes expanded: 75_252_802
+Found a path of 52 moves: ['up', 'right', 'down', 'right', 'down', 'left', 'down', 'left', 'up', 'up', 'left', 'down', 'down', 'right', 'up', 'up', 'up', 'left', 'down', 'right', 'right', 'up', 'right', 'down', 'left', 'down', 'down', 'left', 'up', 'left', 'up', 'right', 'right', 'up', 'left', 'left', 'down', 'right', 'down', 'right', 'right', 'down', 'left', 'left', 'left', 'up', 'right', 'up', 'right', 'right', 'down', 'down']
