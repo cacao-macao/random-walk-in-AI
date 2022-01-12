@@ -1,0 +1,8 @@
+# byte-compiled files
+__pycache__
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# virtual environment
+.venv
